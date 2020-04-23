@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Health</string>
+    <string name="loading_text">Loading&#8230;&#8230;&#8230;</string>
+    <string name="symptoms_text">Symptoms</string>
+    <string name="the_symptoms_text">The Symptoms</string>
+    <string name="coughing_text">Coughing</string>
+    <string name="breathing_pain_text">Breathing pain</string>
+    <string name="itchy_eyes_text">Itchy eyes</string>
+    <string name="my_symptoms_text">My Symptoms</string>
+    <string name="show_results_text">Show Results</string>
+    <string name="show_results_list_text">Show Results in List</string>
+    <string name="short_info">On a scale from 1 to 10, where 10 is the worst and 1 is the best. I experience &#8230;&#8230;&#8230;</string>
+    <string name="Info_long">The scale goes from 1, which is the best,  to 10 which is the worst. The user will enter a number based on how much they experience these symptoms. These results will then be reviewed by a certified &#8230;&#8230;&#8230;</string>
+    <string name="infomation_text">Information</string>
+    <string name="custom_text">Custom Sliders</string>
+    <string name="ten">10</string>
+    <string name="one">1</string>
+    <string name="information_button_text">Information Button</string>
+</resources>

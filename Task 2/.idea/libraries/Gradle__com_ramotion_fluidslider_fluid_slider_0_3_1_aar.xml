@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.ramotion.fluidslider:fluid-slider:0.3.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e524605bfd97645029d1990d7e16744f/jetified-fluid-slider-0.3.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e524605bfd97645029d1990d7e16744f/jetified-fluid-slider-0.3.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
